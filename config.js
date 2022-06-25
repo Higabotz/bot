@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285601700562','6282117231309'] 
+global.owner = ['6285601700562','6282117231309','6281326162010'] 
 global.mods = [] 
-global.prems = ['6285601700562'] 
+global.prems = ['6285601700562','6281326162010'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Eful-sama'
-global.numberowner = '6282117231309'
+global.numberowner = '6285601700562'
 global.instagram = 'https://instagram.com/hyzer_stfu'
 global.github = 'https://github.com/'
 global.dana = '082136421665'
@@ -13,20 +13,20 @@ global.pulsa = '082136421665'
 global.gopay = 'xxxx'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝐎𝐫𝐞𝐤𝐢 - 𝐛𝐨𝐭𝐳'
+global.namebot = 'Yui-chan'
 global.gc = 'https://chat.whatsapp.com/HWRHrL3Pwof8gOdoUt57BL'
 global.web = 'https://youtube.com/channel/UCNr667OTz0M7kvfdffWasUw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasGanz' //ganti jadi apikey lu kalau expired
-global.wm = '「 𝐎𝐫𝐞𝐤𝐢 - 𝐛𝐨𝐭𝐳 あ⁩ 」'
+global.wm = '「 Yui-chan あ⁩ 」'
 global.watermark = wm
-global.wm2 = '                     「 𝐎𝐫𝐞𝐤𝐢 - 𝐛𝐨𝐭𝐳 あ⁩ 」'
-global.wm3 = '⫹⫺ Oreki - 𝗕𝗢𝗧'
+global.wm2 = '                     「 Yui-chan あ⁩ 」'
+global.wm3 = '⫹⫺ Yui-chan'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '.'
-global.author = '☂︎ Ehh...Mau nyolong yahh...\n\n⫹⫺ By Eful |Oreki-bot\nwa.me/${global.nomorbot}'
+global.author = '☂︎ Ehh...Mau nyolong yahh...\n\n⫹⫺ By Eful | Yui-botz\nwa.me/${global.nomorbot}'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
